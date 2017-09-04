@@ -1,0 +1,11 @@
+site_name: apitest
+site_description: Test project with simple API of chat app
+repo_url: https://github.com/pkeeper/rest-test
+site_dir: site
+copyright: Copyright &copy; 2015, <a href="https://github.com/pkeeper">pkeeper</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
